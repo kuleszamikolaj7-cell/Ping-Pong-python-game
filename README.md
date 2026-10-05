@@ -56,13 +56,13 @@ No external Python packages are required.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/kuleszamikolaj7-cell/Ping-Pong-python-game.git
 ```
 
 ### 2. Open the project folder
 
 ```bash
-cd YOUR_REPOSITORY_NAME
+cd Ping-Pong-python-game
 ```
 
 ### 3. Run the game
